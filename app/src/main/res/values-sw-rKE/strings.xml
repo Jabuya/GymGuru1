@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GymGuru-swa</string>
+    <string name="welcome_to_gymguru">Karibu GymGuru</string>
+    <string name="first_name">Jina la kwanza</string>
+    <string name="last_name">Jina la pili</string>
+    <string name="log_in_to_continue">Ingia ili uendelee</string>
+    <string name="login">Ingia</string>
+    <string name="email">Email</string>
+    <string name="password">Nenosiri</string>
+    <string name="dont_have_an_account">Hauna akaunti?</string>
+    <string name="signup_here">JISAINI HAPA!!!</string>
+    <string name="confirm_password">Thibitisha nenosiri</string>
+    <string name="signup">Jisaini</string>
+    <string name="login_here">INGIA HAPA!!!</string>
+    <string name="already_have_an_acoount">Uko na akaunti tayari?</string>
+    <string name="pwd_criteria_1">Neno siri linapaswa kuwa kati ya</string>
+    <string name="pwd_criteria_2">wahusika 6 na 15 bila nafasi lolote</string>
+    <string name="change_language">Badilisha lugha</string>
+    <string name="settings">Settings</string>
+</resources>

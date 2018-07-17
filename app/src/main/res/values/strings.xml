@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GymGuru</string>
+    <string name="welcome_to_gymguru">Welcome to GymGuru</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="log_in_to_continue">Log in to continue</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="dont_have_an_account">Don\'t have an account?" "</string>
+    <string name="signup_here">SIGNUP HERE!!!</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="signup">Signup</string>
+    <string name="login_here">LOGIN HERE!!!</string>
+    <string name="already_have_an_acoount">Already have an account?" "</string>
+    <string name="pwd_criteria_1">Password should be between 6 and 15</string>
+    <string name="pwd_criteria_2">characters long and no spaces allowed</string>
+    <string name="change_language">Change language</string>
+    <string name="settings">Settings</string>
+</resources>
