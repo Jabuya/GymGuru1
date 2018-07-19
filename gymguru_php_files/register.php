@@ -17,7 +17,7 @@
 					}else{
 						$code=rand();
 
-						$insert="INSERT INTO user_91841(id, fullname, email, password, confirmed, code, photo, home_gym_id, dob, gender, weight, target_weight) VALUES(NULL, '$fullname', '&email', '$hash_pwd', 'false', '$code', NULL, NULL, NULL, NULL, NULL, NULL)";
+						$insert="INSERT INTO user_91841(fullname, email, password, confirmed, code, photo, home_gym_id, dob, gender, weight, target_weight) VALUES('$fullname', '&email', '$hash_pwd', 'false', '$code', 'NULL', 'NULL', 'NULL', 'NULL', 'NULL', 'NULL')";
 						$insertSql=mysqli_query($con, $insert);						
 						if($insertSql){
 							$from="From: DoNotReply@gymguru.com";
